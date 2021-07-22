@@ -4,7 +4,9 @@
     "id": null,
     "url": null
   },
-  "customer": null,
+  "customer": {
+    "email": "john.doe+test@email.com"
+  },
   "id": "01FB7A9JC5DDCZ4N1NEB4FMVV3",
   "url": "https://github.com/git-ord/01FB7A9JC5DDCZ4N1NEB4FMVV3.git",
   "status": "open",
